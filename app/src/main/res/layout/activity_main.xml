@@ -22,8 +22,12 @@
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:bubbleColor="#00bb00"
+        android:layout_margin="20sp"
+        android:padding="10dp"
+
+        app:bubbleColor="#803900FF"
         app:bubbleTextColor="#ffffff"
-        app:handleColor="#999999" />
+        app:handleColor="#4000FF"
+        app:bubbleSize="small" />
 
 </FrameLayout>

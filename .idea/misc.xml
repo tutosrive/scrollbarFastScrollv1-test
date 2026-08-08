@@ -1,29 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
-  </component>
-  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="Kotlin2JsCompilerArguments">
     <option name="moduleKind" value="plain" />
-  </component>
-  <component name="Kotlin2JvmCompilerArguments">
-    <option name="jvmTarget" value="21" />
-  </component>
-  <component name="KotlinCommonCompilerArguments">
-    <option name="apiVersion" value="2.3" />
-    <option name="languageVersion" value="2.3" />
-  </component>
-  <component name="KotlinJpsPluginSettings">
-    <option name="version" value="2.3.20" />
   </component>
   <component name="MarkdownSettings">
     <option name="previewPanelProviderInfo">
       <ProviderInfo name="Compose (experimental)" className="com.intellij.markdown.compose.preview.ComposePanelProvider" />
     </option>
-  </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="project" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -124,5 +107,11 @@
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
   </component>
 </project>

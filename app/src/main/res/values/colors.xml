@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2026 tutosrive. All rights reserved.
+  ~
+  ~ Author: tutosrive
+  ~ GitHub: https://github.com/tutosrive
+  ~
+  ~ This source code is PROPRIETARY and CONFIDENTIAL.
+  ~ Unauthorized copying, modification, or distribution of this file,
+  ~ via any medium, is strictly prohibited.
+  ~
+  ~ This software is provided "as is", without warranty of any kind.
+  ~ In no event shall the author be liable for any claim or damages.
+  -->
+
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darked">#550D0048</color>
 </resources>

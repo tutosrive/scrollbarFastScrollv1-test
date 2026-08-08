@@ -24,7 +24,7 @@ import com.l4digital.fastscroll.FastScroller
 class CustomAdapter(val items: List<String>) : RecyclerView.Adapter<CustomAdapter.ViewHolder>(),
     FastScroller.SectionIndexer {
     override fun getSectionText(position: Int): CharSequence {
-        return items[position]
+        return items[position].subSequence(0, 4)
     }
 
     override fun onCreateViewHolder(
